@@ -1,2 +1,2 @@
-# juanpa-prueba-
+# programa-git-
 pantallazo de como crear un nevo repositorio
